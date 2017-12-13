@@ -1,0 +1,4 @@
+## Needs to be spaces for Elm
+## Since tabs are considered syntax errors
+indent_style = space
+tab_width = 4
